@@ -1,4 +1,6 @@
-# eCourtDate Sample CSharp
+# Sample C# File Upload and Send Message integrated with eCourtDate API
+
+This README provides instructions and information about a sample CSharp application written that demonstrates how to use the eCourtDate API to upload a file (test PDF included) and then send a one-off omnichannel message.
 
 ## eCourtDate Overview
 
