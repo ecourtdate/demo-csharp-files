@@ -1,0 +1,59 @@
+# Binaries and intermediate output
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+
+# NuGet Packages
+*.nupkg
+# The packages directory can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+
+# Enable "build/" folder in the NuGet Packages folder 
+!**/[Pp]ackages/build/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Misc
+*.[Cc]ache
+*.log
+*.tmp
+*.tmp_proj
+*.bak
+*.swp
+*~.nib
+local.properties
+*.orig
+*.pyc
+*.dll.config
+*.pidb
+*.userprefs
+*.csproj.user
